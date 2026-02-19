@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EIE",
+    "ESE",
+    "EIE"
+  ],
+  "key": {
+    "E": "minecraft:egg",
+    "S": "minecraft:sculk_catalyst",
+    "I": "minecraft:iron_golem_spawn_egg"
+  },
+  "result": {
+    "id": "minecraft:warden_spawn_egg",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ESE",
+    "E#E",
+    "EEE"
+  ],
+  "key": {
+    "E": "minecraft:egg",
+    "S": "minecraft:slime_ball",
+    "#": "#craftable_spawner_and_eggs:froglight_types"
+  },
+  "result": {
+    "id": "minecraft:tadpole_spawn_egg",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EPE",
+    "E#E",
+    "EEE"
+  ],
+  "key": {
+    "E": "minecraft:egg",
+    "P": "minecraft:pumpkin",
+    "#": "#craftable_spawner_and_eggs:copper_block_types"
+  },
+  "result": {
+    "id": "minecraft:copper_golem_spawn_egg",
+    "count": 1
+  }
+}

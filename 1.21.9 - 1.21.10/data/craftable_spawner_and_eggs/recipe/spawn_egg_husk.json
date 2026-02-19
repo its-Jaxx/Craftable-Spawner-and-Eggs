@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "ESE",
+    "EEE"
+  ],
+  "key": {
+    "E": "minecraft:egg",
+    "S": "#craftable_spawner_and_eggs:sand_types"
+  },
+  "result": {
+    "id": "minecraft:husk_spawn_egg",
+    "count": 1
+  }
+}

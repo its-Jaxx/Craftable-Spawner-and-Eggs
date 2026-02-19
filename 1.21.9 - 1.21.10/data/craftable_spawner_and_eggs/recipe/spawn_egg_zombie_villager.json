@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EVE",
+    "EZE",
+    "EEE"
+  ],
+  "key": {
+    "E": "minecraft:egg",
+    "V": "minecraft:villager_spawn_egg",
+    "Z": "minecraft:zombie_spawn_egg"
+  },
+  "result": {
+    "id": "minecraft:zombie_villager_spawn_egg",
+    "count": 1
+  }
+}
