@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EPE",
+    "EPE",
+    "EPE"
+  ],
+  "key": {
+    "E": "minecraft:egg",
+    "P": "minecraft:pufferfish"
+  },
+  "result": {
+    "id": "minecraft:dolphin_spawn_egg",
+    "count": 1
+  }
+}

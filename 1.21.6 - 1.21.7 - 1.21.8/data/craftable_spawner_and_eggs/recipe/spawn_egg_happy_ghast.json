@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "EGE",
+    "EEE"
+  ],
+  "key": {
+    "E": "minecraft:egg",
+    "G": "minecraft:dried_ghast"
+  },
+  "result": {
+    "id": "minecraft:happy_ghast_spawn_egg",
+    "count": 1
+  }
+}

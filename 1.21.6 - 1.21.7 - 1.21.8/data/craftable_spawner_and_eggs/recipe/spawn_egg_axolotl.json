@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EGE",
+    "E#E",
+    "EEE"
+  ],
+  "key": {
+    "E": "minecraft:egg",
+    "G": "minecraft:ghast_tear",
+    "#": "#craftable_spawner_and_eggs:potion_types"
+  },
+  "result": {
+    "id": "minecraft:axolotl_spawn_egg",
+    "count": 1
+  }
+}

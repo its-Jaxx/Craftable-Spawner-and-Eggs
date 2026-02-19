@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "ESE",
+    "EEE"
+  ],
+  "key": {
+    "E": "minecraft:egg",
+    "S": "minecraft:sweet_berries"
+  },
+  "result": {
+    "id": "minecraft:fox_spawn_egg",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EFE",
+    "EGE",
+    "E#E"
+  ],
+  "key": {
+    "E": "minecraft:egg",
+    "G": "minecraft:glistering_melon_slice",
+    "F": "minecraft:fermented_spider_eye",
+    "#": "#craftable_spawner_and_eggs:potion_types"
+  },
+  "result": {
+    "id": "minecraft:witch_spawn_egg",
+    "count": 1
+  }
+}

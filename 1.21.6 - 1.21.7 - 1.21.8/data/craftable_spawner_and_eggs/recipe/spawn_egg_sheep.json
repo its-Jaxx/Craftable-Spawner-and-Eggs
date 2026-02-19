@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "E#E",
+    "EEE"
+  ],
+  "key": {
+    "E": "minecraft:egg",
+    "#": "#minecraft:wool"
+  },
+  "result": {
+    "id": "minecraft:sheep_spawn_egg",
+    "count": 1
+  }
+}

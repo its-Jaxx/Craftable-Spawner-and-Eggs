@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "E#E",
+    "ECE",
+    "EHE"
+  ],
+  "key": {
+    "E": "minecraft:egg",
+    "#": "#craftable_spawner_and_eggs:carpet_types",
+    "C": "minecraft:chest",
+    "H": "horse_spawn_egg"
+  },
+  "result": {
+    "id": "minecraft:donkey_spawn_egg",
+    "count": 1
+  }
+}
