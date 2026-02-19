@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "FTF",
+    "ESE"
+  ],
+  "key": {
+    "E": "minecraft:egg",
+    "F": "fermented_spider_eye",
+    "T": "tipped_arrow",
+    "S": "minecraft:skeleton_spawn_egg"
+  },
+  "result": {
+    "id": "minecraft:parched_spawn_egg",
+    "count": 1
+  }
+}

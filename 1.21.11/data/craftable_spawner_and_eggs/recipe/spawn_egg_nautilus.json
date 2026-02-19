@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "ENE",
+    "EEE"
+  ],
+  "key": {
+    "E": "minecraft:egg",
+    "N": "minecraft:nautilus_shell"
+  },
+  "result": {
+    "id": "minecraft:nautilus_spawn_egg",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EPE",
+    "ETE",
+    "ESE"
+  ],
+  "key": {
+    "E": "minecraft:egg",
+    "P": "spider_eye",
+    "T": "tipped_arrow",
+    "S": "minecraft:skeleton_spawn_egg"
+  },
+  "result": {
+    "id": "minecraft:bogged_spawn_egg",
+    "count": 1
+  }
+}

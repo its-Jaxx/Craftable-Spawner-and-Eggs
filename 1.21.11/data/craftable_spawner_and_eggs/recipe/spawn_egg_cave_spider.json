@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ESE",
+    "EPE",
+    "E#E"
+  ],
+  "key": {
+    "E": "minecraft:egg",
+    "P": "minecraft:spider_eye",
+    "#": "#craftable_spawner_and_eggs:potion_types",
+    "S": "minecraft:string"
+  },
+  "result": {
+    "id": "minecraft:cave_spider_spawn_egg",
+    "count": 1
+  }
+}

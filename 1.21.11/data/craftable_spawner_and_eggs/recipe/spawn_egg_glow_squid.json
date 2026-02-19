@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "EGE",
+    "EEE"
+  ],
+  "key": {
+    "E": "minecraft:egg",
+    "G": "minecraft:glow_ink_sac"
+  },
+  "result": {
+    "id": "minecraft:glow_squid_spawn_egg",
+    "count": 1
+  }
+}

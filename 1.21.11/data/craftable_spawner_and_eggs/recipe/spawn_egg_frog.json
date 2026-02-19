@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "E#E",
+    "EEE"
+  ],
+  "key": {
+    "E": "minecraft:egg",
+    "#": "#craftable_spawner_and_eggs:froglight_types"
+  },
+  "result": {
+    "id": "minecraft:frog_spawn_egg",
+    "count": 1
+  }
+}
