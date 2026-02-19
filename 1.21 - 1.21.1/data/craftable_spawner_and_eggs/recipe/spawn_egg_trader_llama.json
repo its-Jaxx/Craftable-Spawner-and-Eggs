@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ELE",
+    "EWE",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "L": {
+      "item": "minecraft:llama_spawn_egg"
+    },
+    "W": {
+      "item": "minecraft:wandering_trader_spawn_egg"
+    }
+  },
+  "result": {
+    "id": "minecraft:trader_llama_spawn_egg",
+    "count": 1
+  }
+}

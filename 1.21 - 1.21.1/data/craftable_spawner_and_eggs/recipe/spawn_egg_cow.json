@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "ERE",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "R": {
+      "item": "minecraft:beef"
+    }
+  },
+  "result": {
+    "id": "minecraft:cow_spawn_egg",
+    "count": 1
+  }
+}
