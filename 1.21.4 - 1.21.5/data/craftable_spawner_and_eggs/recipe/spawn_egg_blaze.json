@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "EBE",
+    "EEE"
+  ],
+  "key": {
+    "E": "minecraft:egg",
+    "B": "minecraft:blaze_rod"
+  },
+  "result": {
+    "id": "minecraft:blaze_spawn_egg",
+    "count": 1
+  }
+}

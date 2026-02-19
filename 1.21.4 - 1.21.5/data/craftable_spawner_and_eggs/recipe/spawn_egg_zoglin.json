@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ERE",
+    "EHE",
+    "EEE"
+  ],
+  "key": {
+    "E": "minecraft:egg",
+    "R": "minecraft:rotten_flesh",
+    "H": "minecraft:hoglin_spawn_egg"
+  },
+  "result": {
+    "id": "minecraft:zoglin_spawn_egg",
+    "count": 1
+  }
+}
