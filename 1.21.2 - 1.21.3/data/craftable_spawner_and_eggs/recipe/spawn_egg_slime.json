@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "ESE",
+    "EEE"
+  ],
+  "key": {
+    "E": "minecraft:egg",
+    "S": "minecraft:slime_block"
+  },
+  "result": {
+    "id": "minecraft:slime_spawn_egg",
+    "count": 1
+  }
+}

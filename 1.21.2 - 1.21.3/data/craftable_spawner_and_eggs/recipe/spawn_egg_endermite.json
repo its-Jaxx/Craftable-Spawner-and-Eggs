@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EPE",
+    "ESE",
+    "EEE"
+  ],
+  "key": {
+    "E": "minecraft:egg",
+    "P": "minecraft:ender_pearl",
+    "S": "minecraft:silverfish_spawn_egg"
+  },
+  "result": {
+    "id": "minecraft:endermite_spawn_egg",
+    "count": 1
+  }
+}

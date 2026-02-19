@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "ECE",
+    "EEE"
+  ],
+  "key": {
+    "E": "minecraft:egg",
+    "C": "minecraft:cooked_porkchop"
+  },
+  "result": {
+    "id": "minecraft:hoglin_spawn_egg",
+    "count": 1
+  }
+}

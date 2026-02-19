@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "EFE",
+    "EEE"
+  ],
+  "key": {
+    "E": "minecraft:egg",
+    "F": "minecraft:feather"
+  },
+  "result": {
+    "id": "minecraft:parrot_spawn_egg",
+    "count": 1
+  }
+}
