@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EGE",
+    "EPE",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "G": {
+      "item": "minecraft:golden_axe"
+    },
+    "P": {
+      "item": "minecraft:piglin_spawn_egg"
+    }
+  },
+  "result": {
+    "id": "minecraft:piglin_brute_spawn_egg",
+    "count": 1
+  }
+}

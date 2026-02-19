@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ERE",
+    "EHE",
+    "ERE"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "R": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "H": {
+      "item": "minecraft:horse_spawn_egg"
+    }
+  },
+  "result": {
+    "id": "minecraft:zombie_horse_spawn_egg",
+    "count": 1
+  }
+}

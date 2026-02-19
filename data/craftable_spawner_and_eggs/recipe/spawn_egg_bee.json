@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "EHE",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "H": {
+      "tag": "minecraft:honey_bottle"
+    }
+  },
+  "result": {
+    "id": "minecraft:bee_spawn_egg",
+    "count": 1
+  }
+}

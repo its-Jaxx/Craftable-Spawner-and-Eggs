@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EWE",
+    "EGE",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "W": {
+      "item": "minecraft:wet_sponge"
+    },
+    "G": {
+      "item": "minecraft:guardian_spawn_egg"
+    }
+  },
+  "result": {
+    "id": "minecraft:elder_guardian_spawn_egg",
+    "count": 1
+  }
+}
