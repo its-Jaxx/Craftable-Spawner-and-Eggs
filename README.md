@@ -35,6 +35,8 @@ For mod issues, please see the **[GitHub Issues](https://github.com/its-Jaxx/Cra
 
 ![Axolotl](https://raw.githubusercontent.com/its-Jaxx/Craftable-Spawner-and-Eggs/refs/heads/main/Recipe%20Images/Passive/Axolotl_Recipe.gif)
 
+*Will accept any potion / splash potion / lingering potion*
+
 </details>
 
 <details>
@@ -290,6 +292,8 @@ For mod issues, please see the **[GitHub Issues](https://github.com/its-Jaxx/Cra
 
 ![Cave Spider](https://raw.githubusercontent.com/its-Jaxx/Craftable-Spawner-and-Eggs/refs/heads/main/Recipe%20Images/Neutral/Cave_Spider_Recipe.gif)
 
+*Will accept any potion / splash potion / lingering potion*
+
 </details>
 
 <details>
@@ -428,6 +432,8 @@ For mod issues, please see the **[GitHub Issues](https://github.com/its-Jaxx/Cra
 
 ![Bogged](https://raw.githubusercontent.com/its-Jaxx/Craftable-Spawner-and-Eggs/refs/heads/main/Recipe%20Images/Hostile/Bogged_Recipe.png)
 
+*Will accept any tipped arrow*
+
 </details>
 
 <details>
@@ -462,6 +468,8 @@ For mod issues, please see the **[GitHub Issues](https://github.com/its-Jaxx/Cra
 <summary>Silverfish</summary>
 
 ![Silverfish](https://raw.githubusercontent.com/its-Jaxx/Craftable-Spawner-and-Eggs/refs/heads/main/Recipe%20Images/Hostile/Silverfish_Recipe.gif)
+
+*Will accept any potion / splash potion / lingering potion*
 
 </details>
 
@@ -561,12 +569,16 @@ For mod issues, please see the **[GitHub Issues](https://github.com/its-Jaxx/Cra
 
 ![Stray](https://raw.githubusercontent.com/its-Jaxx/Craftable-Spawner-and-Eggs/refs/heads/main/Recipe%20Images/Hostile/Stray_Recipe.png)
 
+*Will accept any tipped arrow*
+
 </details>
 
 <details>
 <summary>Parched</summary>
 
 ![Parched](https://raw.githubusercontent.com/its-Jaxx/Craftable-Spawner-and-Eggs/refs/heads/main/Recipe%20Images/Hostile/Parched_Recipe.png)
+
+*Will accept any tipped arrow*
 
 </details>
 
@@ -609,6 +621,8 @@ For mod issues, please see the **[GitHub Issues](https://github.com/its-Jaxx/Cra
 <summary>Witch</summary>
 
 ![Witch](https://raw.githubusercontent.com/its-Jaxx/Craftable-Spawner-and-Eggs/refs/heads/main/Recipe%20Images/Hostile/Witch_Recipe.gif)
+
+*Will accept any potion / splash potion / lingering potion*
 
 </details>
 
